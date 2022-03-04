@@ -1,0 +1,185 @@
+nav{
+    background-color: #252525;
+    padding: 10px;
+}
+.navbar-header img{
+    width: 170px;
+    padding-left: 15px;
+}
+nav li a{
+    color: #ffffff;
+    font-weight: 500;
+}
+nav li a:hover{
+    color: #ffffff;
+}
+nav .navbar-sign li{
+  padding-right: 15px;
+}
+.nav-btns .button {
+    background-color: #ffffff;
+    border: none;
+    color: #252525;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  /* main section */
+  .h-banner{
+      background-image: url(./close-up-pro-gamer-s-hands-keyboard-neon-color_403156-129.jpg);
+      height: 100%;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+  }
+  .m-text{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
+  .m-text h1{
+      font-size: 60px;
+  }
+  /* game-list */
+  .games-list{
+      border: 5px solid #FF63B1;
+  }
+  .games-list .game-img img{
+      width: 400px;
+  }
+  .games-list .g-text h3{
+      color: #FF63B1;
+
+  }
+  /* req-sec */
+  .req{
+    border: 5px solid #FF63B1;
+    /* border-top: 0px; */
+  }
+
+  .req ul{
+      list-style: none;
+  }
+  .req ul li{
+      color: #ffffff;
+      font-size: 20px;
+      font-weight: 600;
+  }
+  .req ul li img{
+      width: 50px;
+      margin: 20px;
+  }
+  /* about us */
+  .about .a-text h3{
+      color: #FF9A60;
+  }
+  .about img{
+      width: 100%;
+  }
+  /* play now */
+  .play{
+      background:#48407F;
+      
+  }
+  .play .button {
+    background-color: #252525;
+    border: none;
+    color: #ffffff;
+    padding: 15px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  /* footer */
+  footer img{
+      width: 20px;
+  }
+  footer ul{
+      list-style: none;
+      color: white;
+      font-weight: 500;
+      padding: 20px 0px 0px 0px;
+      margin: 0px;
+  }
+  footer .support ul li{
+      padding: 15px;
+  }
+.f-text{
+      background-color: #252525cc;
+  }
+
+
+
+
+  /* price page.... */
+  .price .hour_1,.hour_5{
+      background-color: #606060;
+      border: 1px solid #606060;
+      border-radius: 5px;
+      padding: 30px 0px 30px 0px;
+      width: 280px;
+      margin: auto;
+
+  }
+  .price .hour_2{
+    background-color: #606060;
+    border: 1px solid #606060;
+    border-radius: 5px;
+    padding: 0px 0px 30px 0px;
+    width: 280px;
+    margin: auto;
+  }
+  .price h4{
+      color: #FF9393;
+  }
+  .price .hour_2 h4{
+      padding-top: 20px;
+  }
+  .price .inr{
+      text-decoration-line:line-through ;
+      color: #ffffff;
+      font-size: 22px;
+      font-weight: 500;
+      padding-top: 17px;
+  }
+  .price .disc{
+      font-weight: 500;
+  }
+  .price .button {
+    background-color: #F253AD;
+    border: none;
+    color: #ffffff;
+    padding: 8px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  .price .refund{
+    font-weight: 700;
+    font-size: 21px;
+    padding: 20px 0px 0px 0px;
+}
+.price .Recommanded{
+    font-size: 20px;
+    text-align: center;
+    background-color: #F253AD;
+    padding: 10px;
+    width: 279px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #ffffff;
+    font-weight: 500;
+}
