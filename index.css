@@ -183,3 +183,28 @@ nav .navbar-sign li{
     color: #ffffff;
     font-weight: 500;
 }
+/* game-list page */
+.gamelist ul{
+    color: white;
+    list-style: none;
+}
+.gamelist ul li{
+    background-color: #F253AD;
+    padding: 10px 45px;
+    text-align: center;
+    margin: 15px;
+    border: 1px solid #F253AD;
+    border-radius: 4px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+/* play games page */
+.game-imgg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.game-imgg img{
+    width: 370px;
+}
